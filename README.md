@@ -48,8 +48,8 @@ cyk = new CYK(grammar_yt_vid, startstate)
 
 To check whether a word is part of the language or not, use this:
 
-```python
-cyk.checkWord(word) #Returns true or false
+```javascript
+cyk.checkWord(word) //Returns true or false
 ```
 
 If you want to see the table that is generated as a part of this algorithm, use this:
