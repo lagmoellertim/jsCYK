@@ -4,7 +4,9 @@
 
 2. How to use jsCYK
 
-3. Credits
+3. License
+
+4. Credits
 
 ## 1. Details
 
